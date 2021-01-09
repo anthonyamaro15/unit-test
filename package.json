@@ -1,0 +1,22 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyamaro15/unit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyamaro15/unit-test/issues"
+  },
+  "homepage": "https://github.com/anthonyamaro15/unit-test#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
